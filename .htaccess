@@ -1,0 +1,4 @@
+Redirect /blog /blog.html
+Redirect /projecten /projecten.html
+Redirect /vrijwilligers /vrijwilligers.html
+Redirect /en /index_en.html
