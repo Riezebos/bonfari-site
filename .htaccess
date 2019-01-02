@@ -1,3 +1,8 @@
+##------Force HTTPS connection entire domain------##
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+##
 Redirect /blog /blog.html
 Redirect /projecten /projecten.html
 Redirect /vrijwilligers /vrijwilligers.html
