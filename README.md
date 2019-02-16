@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dbcba76b-426c-4315-84b5-54be4e0765c2/deploy-status)](https://app.netlify.com/sites/vigorous-allen-935872/deploys)
+
 # [Start Bootstrap](https://startbootstrap.com/) - [Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
