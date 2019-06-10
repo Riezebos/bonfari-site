@@ -40,7 +40,8 @@ function showInfo(data, tabletop) {
                     +'<h2>'+data[j].project+'</h2>'
                     +'<img class="img-responsive img-centered" src="/img/projecten/'+data[j].upload2+'" alt="">'
                     +'<p class="text-justify" style="white-space: pre-wrap">'+data[j].tekst1+'</p>'
-                    +'<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Ga terug</button>'
+                    +'<p class="text-justify" style="white-space: pre-wrap"><a href="https://docs.google.com/spreadsheets/d/14tv5Ec2uGglHMDEBWIpuBpoosRTyQMOS3E5dNnbu6kE/edit?usp=sharing">Bekijk de begrotingen en realisaties van onze projecten.</a></p>'
+                    +'</br><button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Ga terug</button>'
                 );
             }
         }
